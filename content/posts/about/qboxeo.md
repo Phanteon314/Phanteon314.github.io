@@ -8,6 +8,8 @@ menu = "mainmenu"
 
 ## La historia del boxeo
 
+This is the {{< highlight "most trending" >}} post of the decade.
+
 El boxeo es una cosa milenaria asi que si s
 
-![my image](/img/guantes.jpg)
+{{< youtube video="mz6cr5I-HeU" >}}
